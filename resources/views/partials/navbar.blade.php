@@ -10,7 +10,7 @@
       <ul class="navbar-nav">
         <li class="nav-item">
           <a class="nav-link active text-white" aria-current="page"
-            style="opacity: 0.8; font-weight:bolder; padding-left: 50px;" href="#">Home</a>
+            style="opacity: 0.8; font-weight:bolder; padding-left: 50px;" href="/">Home</a>
         </li>
         <li class="nav-item">
           <a class="nav-link active text-white" aria-current="page"
